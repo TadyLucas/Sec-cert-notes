@@ -76,3 +76,34 @@
 	![[Pasted image 20250116064934.png]]
 	 - red -> yellow -> green
 	 - give reason why the color
+#### Zero trust
+- you have to authenticate every time
+- nothing is trusted
+- MFA, encryption, systems encryption
+- Data plane
+	- process the frames, packets
+	- Router switch
+- Control Planes
+	- define policies and rules
+	- determine how packets should be forwarded
+	- Adaptive identity
+		- identify user with authentication
+			- e.g. consider source location
+			- role
+			- IP address
+		- limit entry point to only in the building
+	- Security zones
+		- looking where are you coming from and where are you going
+			- trusted, untrusted
+			- internal, external network
+	- Policy Enforcement point
+		- gatekeeper
+		- allow, monitor
+		- ![[Pasted image 20250116193434.png]]
+		-  Policy Engine
+			- Evaluates each access decision based on policy
+			- Grant, deny, revoke
+		- Policy Administrator
+			- generates access tokens or credentials
+			- tells the PEP to allow or disallow access
+			- 

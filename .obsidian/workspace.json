@@ -4,25 +4,31 @@
     "type": "split",
     "children": [
       {
+        "id": "6a53829122127fc4",
+        "type": "tabs",
+        "dimension": 45.3091684434968,
+        "children": [
+          {
+            "id": "604c6a967a84084d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Sec+/CompTIA-Security-Plus-SY0-701-Exam-Objectives.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "CompTIA-Security-Plus-SY0-701-Exam-Objectives"
+            }
+          }
+        ]
+      },
+      {
         "id": "51472d05f20b8f1d",
         "type": "tabs",
+        "dimension": 54.69083155650319,
         "children": [
           {
             "id": "101f2fe13e484d2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "604c6a967a84084d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +41,7 @@
               "title": "General Security Concepts"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fe4820fe10e81626",
@@ -169,6 +175,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -177,13 +184,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "604c6a967a84084d",
+  "active": "101f2fe13e484d2b",
   "lastOpenFiles": [
-    "Pasted image 20250116064934.png",
-    "README.md",
+    "Sec+/CompTIA-Security-Plus-SY0-701-Exam-Objectives.pdf",
     "Sec+/General Security Concepts.md",
+    "Pasted image 20250116193434.png",
+    "README.md",
+    "Pasted image 20250116064934.png",
     "Pasted image 20250116054305.png",
-    "Sec+",
-    "Sec+/CompTIA-Security-Plus-SY0-701-Exam-Objectives.pdf"
+    "Sec+"
   ]
 }
