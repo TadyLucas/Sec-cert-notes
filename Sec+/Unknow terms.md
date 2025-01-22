@@ -1,0 +1,7 @@
+- Z-Wave
+	-  wireless comunication protocol comonly used in home automation
+- Zigbee
+	- wireless communication used with IoT
+- soft token
+	- one-time password
+- 
