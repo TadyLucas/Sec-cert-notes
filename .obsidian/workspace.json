@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "51472d05f20b8f1d",
+        "id": "5ade9def2e727198",
         "type": "tabs",
         "children": [
           {
-            "id": "101f2fe13e484d2b",
+            "id": "ac2ce147775b3c6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sec+/4.0 Security operations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.0 Security operations"
+            }
+          },
+          {
+            "id": "bfb0c3c734a66d96",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,9 +34,16 @@
               "icon": "lucide-file",
               "title": "3. Security Architecture"
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "4b77645d5790549a",
+        "type": "tabs",
+        "children": [
           {
-            "id": "c35d80f5c0afef84",
+            "id": "ac7e2b2ff4a8169e",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -166,17 +187,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "101f2fe13e484d2b",
+  "active": "bfb0c3c734a66d96",
   "lastOpenFiles": [
+    "Sec+/4.0 Security operations.md",
     "Sec+/CompTIA-Security-Plus-SY0-701-Exam-Objectives.pdf",
     "Sec+/3. Security Architecture.md",
     "Pasted image 20250122054920.png",
