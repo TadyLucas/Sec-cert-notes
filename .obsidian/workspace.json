@@ -155,19 +155,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "ac2ce147775b3c6f",
   "lastOpenFiles": [
     "Sec+/CompTIA-Security-Plus-SY0-701-Exam-Objectives.pdf",
     "Sec+/4.0 Security operations.md",
+    "Pasted image 20250126070300.png",
+    "Sec+/1. General Security Concepts.md",
+    "tests/Technical institute of america.txt",
+    "tests",
+    "New folder",
     "Sec+/3. Security Architecture.md",
     "Pasted image 20250122054920.png",
     "Pasted image 20250122053156.png",
@@ -176,7 +181,6 @@
     "Pasted image 20250121060801.png",
     "Pasted image 20250121055446.png",
     "Untitled 1.md",
-    "Sec+/1. General Security Concepts.md",
     "Pasted image 20250118113757.png",
     "Pasted image 20250118083914.png",
     "Pasted image 20250116193434.png",
