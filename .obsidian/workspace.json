@@ -22,24 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "5ade9def2e727198",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ac2ce147775b3c6f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Sec+/CompTIA-Security-Plus-SY0-701-Exam-Objectives.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "CompTIA-Security-Plus-SY0-701-Exam-Objectives"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -182,10 +164,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ac2ce147775b3c6f",
+  "active": "caf8396aaa970f26",
   "lastOpenFiles": [
-    "Sec+/4.0 Security operations.md",
     "Sec+/CompTIA-Security-Plus-SY0-701-Exam-Objectives.pdf",
+    "Sec+/4.0 Security operations.md",
     "tests/Technical institute of america.txt",
     "tests",
     "Pasted image 20250126070300.png",
