@@ -4,21 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "39d0005ce3068faf",
+        "id": "4c68a65efbe453f4",
         "type": "tabs",
+        "dimension": 60.09708737864078,
         "children": [
           {
-            "id": "caf8396aaa970f26",
+            "id": "dfa6c06b256d4580",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sec+/4.0 Security operations.md",
+                "file": "Sec+/5.0 Security Program Management and Oversight.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.0 Security operations"
+              "title": "5.0 Security Program Management and Oversight"
+            }
+          }
+        ]
+      },
+      {
+        "id": "39d0005ce3068faf",
+        "type": "tabs",
+        "dimension": 39.90291262135922,
+        "children": [
+          {
+            "id": "e65cf40d5aeb8992",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Sec+/CompTIA-Security-Plus-SY0-701-Exam-Objectives.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "CompTIA-Security-Plus-SY0-701-Exam-Objectives"
             }
           }
         ]
@@ -164,28 +184,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "caf8396aaa970f26",
+  "active": "dfa6c06b256d4580",
   "lastOpenFiles": [
+    "Pasted image 20250127203015.png",
+    "Pasted image 20250127200735.png",
+    "Pasted image 20250127200733.png",
+    "Pasted image 20250127200730.png",
     "Sec+/CompTIA-Security-Plus-SY0-701-Exam-Objectives.pdf",
+    "Sec+/5.0 Security Program Management and Oversight.md",
+    "Pasted image 20250127182611.png",
+    "Pasted image 20250127182016.png",
+    "Pasted image 20250127182011.png",
+    "Pasted image 20250127180945.png",
+    "Pasted image 20250127165336.png",
+    "Pasted image 20250127163244.png",
     "Sec+/4.0 Security operations.md",
     "tests/Technical institute of america.txt",
     "tests",
     "Pasted image 20250126070300.png",
     "Sec+/3. Security Architecture.md",
-    "Pasted image 20250122054920.png",
-    "Pasted image 20250122053156.png",
     "Sec+/Unknow terms.md",
     "Sec+/2. Threats, Vulnerabilities, Mitigations.md",
-    "Pasted image 20250121060801.png",
-    "Pasted image 20250121055446.png",
     "Untitled 1.md",
     "Sec+/1. General Security Concepts.md",
-    "Pasted image 20250118113757.png",
-    "Pasted image 20250118083914.png",
-    "Pasted image 20250116193434.png",
     "README.md",
-    "Pasted image 20250116064934.png",
-    "Pasted image 20250116054305.png",
     "Sec+"
   ]
 }
