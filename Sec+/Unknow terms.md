@@ -4,4 +4,65 @@
 	- wireless communication used with IoT
 - soft token
 	- one-time password
-- 
+- Risk tolerance
+	- amount of risk a project can handle
+- Risk appetite
+	- amount of risk a project is willing to accept in pursuing its objective
+	- emotional, psychological
+- Continuous Integration
+	- version control - github
+	- automatically testing code
+- **Quantitative** Risk Analysis
+	- numerical value to risk 
+	- in financial terms
+- **Qualitative** Risk Analysis
+	- uses "high", "medium", "low"
+- Risk matrix
+	- visual tool combining likelihood and impact
+- Jump server
+	- gateway for admins to access systems in different security zones
+- Wiretapping
+	- sniffing on the wired network
+- VoIP
+	- port 5060
+- How to restrict connecting to network by wired
+	- port security, restrict it to specific MAC address
+- Guard rails
+	- in automation prevents misconfigurations and errors
+- Shadow it
+	- someone using like unauthorized services
+	- OneDrive instead of company storage
+	- gmail instead of company mail
+- Netflow
+	- collect network data
+	- than admins can understand traffic pattern
+- UPS and generator 
+	- best backup power system for short-term and long-term
+- Zero trust
+	- Never trust, always verify
+	- least privilege
+	- assume breach
+		- plan for worst scenario
+	- Trust broker
+		- Set of technologies to verify user
+- Access control
+	- Mandatory Access Control(MAC)
+		- every object gets a label
+		- admin decides who gets access to what group
+		- based on rules
+	- Discretionary Access Control(DAC)
+		- creator of file can control who has access
+	- Role-based access control(RBAC)
+		- based on job function
+		- admin create groups and assign them permissions
+	- Rules-based access control
+		- admin set rules
+		- rule is associated with object
+	- Attribute-based access control(ABAC)
+		- create complex relationships 
+			- based on different criteria
+		- IP address, time of day
+	- Time-of-day restrictions
+		- restricted during certain time
+- NAC
+	- control access
